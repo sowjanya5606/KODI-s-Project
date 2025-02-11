@@ -1,0 +1,91 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    width:100%;
+    height:905px;
+    background-image: url(./sparkles\ copy.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+}
+#img2{
+    width:200px;
+    height: 200px;
+}
+.text{
+    font-size: 50px;
+    text-shadow: -2px -2px 0px white,2px 2px 0px rgba(255, 0, 0, 0.61);
+    border-radius: 0.5px solid blue;
+}
+#textDisplay{
+    position: absolute;
+    top: 8%;
+    left: 10%;
+}
+#textDisplay1{
+    position: absolute;
+    top: 27%;
+    left: 24%;
+}
+#textDisplay2{
+    position: absolute;
+    top:70%;
+    left: 68%;
+}
+#textDisplay3{
+    position: absolute;
+    top: 52%;
+    left: 55%;
+}
+.text1{
+    float:left;
+    text-align: center;
+    color:rgb(0, 0, 255);
+}
+.text2{
+    float:left;
+    text-align: center;
+    color: red;
+}
+#idone{
+    float:left;
+    text-align: center;
+    color: orange;
+}
+#idtwo{
+    float: left;
+    text-align: center;
+    color: green;
+}
+.div_classfour{
+    float: left;
+    text-align: center;
+    color:magenta;
+}
+#imgs{
+    height: 680px;
+}
+#ballons{
+    margin-left: 80px;
+}
+#ballons2{
+    margin-left: 65%;
+}
+.images{
+    width:160px;
+    height:140px;
+}
+#ballons3{
+    margin-left: 120px;
+}
+#ballons4{
+    margin-left: 80px;
+}
+#ballons5{
+    margin-left: 65%;
+}
+#ballons6{
+    margin-left: 120px;
+}
